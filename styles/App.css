@@ -43,8 +43,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 20px;
-  
+  margin-top: 10px;
+  height: fit-content;
 }
 .cta-button {
   height: 45px;
